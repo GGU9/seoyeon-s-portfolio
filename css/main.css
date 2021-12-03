@@ -379,7 +379,7 @@ header{
     position: absolute;
     width: 287px;
     left: 230px;
-    top: 6840px;
+    top: 8150px;
 }
 
 #project_menu2 a{
@@ -410,7 +410,7 @@ header{
     position: absolute;
     width: 287px;
     left: 230px;
-    top: 15100px;
+    top: 16440px;
 }
 
 
@@ -435,7 +435,7 @@ header{
 
 #project1{
     width: 100%;
-    height: 2280px;
+    height: 3600px;
     background-color: #F3D02E;
     width: 1910px;
     overflow: hidden;
@@ -471,6 +471,19 @@ header{
     position: relative;
     left: 640px;
     top: 250px;
+}
+.project_flow{
+    width: 1050px;
+    position: relative;
+    left: 640px;
+    top: 350px;
+}
+
+.project_logic{
+    width: 1050px;
+    position: relative;
+    left: 640px;
+    top: 450px;
 }
 
 .project_ia{
